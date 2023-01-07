@@ -42,3 +42,6 @@ Clustering results summary
 3. Major packages used include Numpy, Pandas, Matplotlib, Sklearn, lasio, seaborn and Math amongst others
 
 *** Please refer to final report and presentation for more details ***
+
+**** If it must be done, it must be done with excellence ****
+**** We keep pushing, we keep learning, we keep growing!!!***
