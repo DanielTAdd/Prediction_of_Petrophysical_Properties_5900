@@ -43,11 +43,6 @@ Clustering results summary
 
 *** Please refer to final report and presentation for more details ***
 
-***Link to Python Codes can be found here
-
-https://drive.google.com/file/d/1n2G6AHADeKaZOmG4jIYpFC19fCnLrJIY/view?usp=share_link
-
-
 
 ****If it must be done, it must be done with excellence****
 
