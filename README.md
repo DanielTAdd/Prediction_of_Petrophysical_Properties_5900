@@ -36,4 +36,9 @@ Summary of Model Results
 
 Clustering results summary
 
+### WorkFlow
+1. The Cross-Industry Standard Process for Data Mining was used in addressing this problem. 
+2. EDA, Feature Engineering, Model Development, Model Diagnostics and Evaluation of model metrics were all conducted with Python. 
+3. Major packages used include Numpy, Pandas, Matplotlib, Sklearn, lasio, seaborn and Math amongst others
+
 *** Please refer to final report and presentation for more details ***
