@@ -43,5 +43,6 @@ Clustering results summary
 
 *** Please refer to final report and presentation for more details ***
 
-**** If it must be done, it must be done with excellence ****
-**** We keep pushing, we keep learning, we keep growing!!!***
+****If it must be done, it must be done with excellence****
+
+***We keep pushing, we keep learning, we keep growing!!!***
